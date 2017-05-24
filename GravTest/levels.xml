@@ -1,0 +1,46 @@
+<LEVELS>
+    <LEVEL id='1'>
+        <PATHONE>
+            <HASPLANET>YES</HASPLANET>
+            <IMGNAME>sun_sprite.png</IMGNAME>
+            <MASS></MASS>
+            <ORBITTIME>1.0</ORBITTIME>
+        </PATHONE>
+        <PATHTWO>
+            <HASPLANET>YES</HASPLANET>
+            <IMGNAME>earth.png</IMGNAME>
+            <MASS></MASS>
+            <ORBITTIME>2.0</ORBITTIME>
+        </PATHTWO>
+        <PATHTHREE>
+            <HASPLANET>YES</HASPLANET>
+            <IMGNAME>uranus_sprite.png</IMGNAME>
+            <MASS></MASS>
+            <ORBITTIME>3.0</ORBITTIME>
+        </PATHTHREE>
+        <PATHFOUR>
+            <HASPLANET>YES</HASPLANET>
+            <IMGNAME>neptune_sprite.png</IMGNAME>
+            <MASS></MASS>
+            <ORBITTIME>4.0</ORBITTIME>
+        </PATHFOUR>
+        <PATHFIVE>
+            <HASPLANET>YES</HASPLANET>
+            <IMGNAME>moon.png</IMGNAME>
+            <MASS></MASS>
+            <ORBITTIME>5.0</ORBITTIME>
+        </PATHFIVE>
+        <PATHSIX>
+            <HASPLANET>YES</HASPLANET>
+            <IMGNAME>jupiter_sprite.png</IMGNAME>
+            <MASS></MASS>
+            <ORBITTIME>6.0</ORBITTIME>
+        </PATHSIX>
+        <PATHSEVEN>
+            <HASPLANET>YES</HASPLANET>
+            <IMGNAME>saturn_sprite.png</IMGNAME>
+            <MASS></MASS>
+            <ORBITTIME>7.0</ORBITTIME>
+        </PATHSEVEN>
+    </LEVEL>
+</LEVELS>
